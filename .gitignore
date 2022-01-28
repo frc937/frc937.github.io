@@ -1,0 +1,6 @@
+# Folder that stores the compiled site
+public
+public/*
+
+# hugo build lockfile
+.hugo_build.lock
