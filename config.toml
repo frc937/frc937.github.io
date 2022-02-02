@@ -8,6 +8,12 @@ SectionPagesMenu = "main"
 #Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
+# render raw HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
