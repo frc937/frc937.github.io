@@ -1,0 +1,15 @@
+/* Get rid of the 16 FREAKING REMS of padding Ananke puts at the bottom of EVERY PAGE by default */
+main {    
+    padding-bottom: 0rem !important;
+}
+
+/* This whole section is mostly to make page titles and such readable on their background that is currently VERY red. This may become unnecessary in the future as we add hero images. */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold !important;
+    /*color: #111 !important;*/
+}
