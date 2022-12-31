@@ -39,6 +39,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/sponsors/sponsors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/robots/owoange-juice-2022/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
