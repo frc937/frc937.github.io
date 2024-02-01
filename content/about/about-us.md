@@ -4,6 +4,5 @@ type: page
 menu:
     main:
         parent: About
-draft: true
 ---
 
