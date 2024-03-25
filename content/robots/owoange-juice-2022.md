@@ -1,5 +1,5 @@
 ---
-title: "Owoange Juice 2022"
+title: "OwOange Juice 2022"
 type: page
 ---
 
