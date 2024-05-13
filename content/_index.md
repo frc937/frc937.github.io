@@ -7,6 +7,6 @@ featured_image: "/img/2020-robot-side-view.png"
 Hello! This is our awesome website. this will store; photos, Bots, Competitions, and MORE!! 
 If you're looking for elementary school event info go to [events](/events/robotics-day).
 
-For information on how to join go to [How to Join](/how-to-join/about).
+For information on how to join go to [How to Join](/about/how-to-join).
 
 {{< hidden link="/7572206d6f6d/69732077696465/hehehiddenpage/" >}}hehe lil hidden link click me{{< /hidden >}}
