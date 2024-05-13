@@ -1,6 +1,39 @@
 ---
-title: "Subteams"
+title: "Specialty"
 type: page
-draft: true
+draft: false
 ---
 
+**Mechanical**
+
+Silas
+
+Malachi
+
+Ellie
+
+**Programming**
+
+Quinn
+
+Jack
+
+Marz
+
+**Power Distribution**
+
+Brayden
+
+Max
+
+Jorden
+
+**Marketing**
+
+Peyton
+
+Zabby
+
+Juliany
+
+Zander
