@@ -2,6 +2,7 @@
 title: "How to Join"
 type: page
 draft: false
+menu: main
 ---
 
 Hello, This is how YOU can join robotics team 937.
