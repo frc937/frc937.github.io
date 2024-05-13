@@ -1,10 +1,10 @@
 ---
 title: "Reach out activities"
 type: page
-draft: true
+draft: false
 ---
 Here are our Reach out activities going on right now!
-Robotics Day 2023 
-Middle School Presentation 2024
-Parents night out 2024
+Robotics Day 2024 (Date to be determined)
+Middle School Presentation 2024 (Date to be determined)
+Parents' night out (Year and Date to be determined)
 
