@@ -1,11 +1,16 @@
 ---
-title: "Frc Competition"
+title: "Frc Competitions"
 type: page
 draft: false
 ---
-Past FRC competitions: 
+**Upcoming FRC competitions:** 
+
+(waiting for 2024-2025 season)
+
+**Past FRC competitions:**
+
 Cow Town MO 2023
+
 Heartland Regional KS 2024
 
-Upcoming FRC competitions:
-Lee's Summit MO 2024
+Greater Kansas City Regional MO 2024
