@@ -1,7 +1,7 @@
 ---
 title: "Our Mentors"
 type: page
-draft: true
+draft: false
 ---
 
 We are incredibly grateful to our current mentors, who have assisted us through the years in more ways than we can count.
