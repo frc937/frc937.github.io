@@ -4,6 +4,14 @@ type: page
 draft: false
 ---
 
+**President**
+
+Quinn
+
+**Vice-President**
+
+Malachi
+
 **Mechanical**
 
 Silas
@@ -30,10 +38,10 @@ Jorden
 
 **Marketing**
 
-Peyton
-
 Zabby
 
 Juliany
 
 Zander
+
+Marz
