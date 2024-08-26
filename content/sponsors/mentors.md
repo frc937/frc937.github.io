@@ -11,7 +11,7 @@ We are incredibly grateful to our current mentors, who have assisted us through 
 Katie Kendle   
 Larry Pickert (Chemistry teacher at SMN)   
 Keaton Tuttle (Engineering teacher at SMN) 
- Emily Pinkston (Mathematics teacher at SMN)
+Emily Pinkston (Mathematics teacher at SMN) 
 John Peer  
 Maya Routh (Team 937 alum!)  
 Dylan Polson (Team 937 alum!)
@@ -20,8 +20,8 @@ Dylan Polson (Team 937 alum!)
 
 Reed Fagan (Former engineering teacher at SMN)  
 Michael Alsin (Auto technology teacher at SMN)
- Libby Davis (Math teacher at SMN) 
- Peter van Ophem (Chemistry teacher at SMN) 
+Libby Davis (Math teacher at SMN)  
+Peter van Ophem (Chemistry teacher at SMN)  
 
 ## Becoming a Mentor
 
