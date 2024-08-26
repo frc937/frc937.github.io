@@ -8,12 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jan 2022 16:46:01 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About FIRST</title>
+      <link>/about/about-first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about-first/</guid>
+      <description>This is the FIRST definition from the FIRST website
+&amp;ldquo;Founded in 1989 by inventor Dean Kamen, FIRST® (For Inspiration and Recognition of Science and Technology) is a global nonprofit (501(c)(3)) organization that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12). Our programs are suitable for schools or structured afterschool activities and receive support from a vast network of volunteers, educators, and sponsors/donors, including over 200 Fortune 500 companies.</description>
+    </item>
+    
+    <item>
       <title>About Us</title>
       <link>/about/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/about-us/</guid>
-      <description></description>
+      <description>We are Shawnee Mission North&amp;rsquo;s FRC (First Robotics Competition) team, Our team number is 937, which means we were one of the first 1000&amp;rsquo;s teams to join the FRC family. Our club was started in 2002 with the name &amp;ldquo;The North Stars&amp;rdquo;. (More information will be added as we learn)</description>
     </item>
     
     <item>
@@ -55,8 +65,7 @@ Also, here&amp;rsquo;s a cool picture: </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/how-to-join/</guid>
-      <description>Hello, This is how YOU can join robotics team 937. Next year you will be informed of our start date by Canvas, Announcements, and Email if you&amp;rsquo;re a freshman who gives us your email on freshman first day. We hope to see you there!
-If you are looking to be a mentor then go to Mentors. (you have to be out of high school mentor).</description>
+      <description>Hello, This is how YOU can join robotics team 937. This school year 24&amp;rsquo;-25&amp;rsquo; our freshman first meeting is on September 9th! This meeting will be like an open house! it&amp;rsquo;ll start at 3:10 after school and end at 5:30 pm in room 183. This will be filled with fun team activities and general information about the club, also you don&amp;rsquo;t have to be a freshman to join! No matter what grade you are you can come join us.</description>
     </item>
     
     <item>
@@ -75,15 +84,7 @@ If you are looking to be a mentor then go to Mentors. (you have to be out of hig
       
       <guid>/sponsors/mentors/</guid>
       <description>We are incredibly grateful to our current mentors, who have assisted us through the years in more ways than we can count.
-Current Mentors Katie Kendle
-Libby Davis (Math teacher at SMN)
-Larry Pickert (Chemistry teacher at SMN)
-Peter van Ophem (Chemistry teacher at SMN)
-Keaton Tuttle (Engineering teacher at SMN)
-John Peer
-Maya Routh (Team 937 alum!)
-Dylan Polson (Team 937 alum!)
-Notable Past Mentors Reed Fagan (Former engineering teacher at SMN)</description>
+Current Mentors Katie Kendle Larry Pickert (Chemistry teacher at SMN) Keaton Tuttle (Engineering teacher at SMN) Emily Pinkston (Mathematics teacher at SMN) John Peer Maya Routh (Team 937 alum!) Dylan Polson (Team 937 alum!) Notable Past Mentors Reed Fagan (Former engineering teacher at SMN) Michael Alsin (Auto technology teacher at SMN) Libby Davis (Math teacher at SMN) Peter van Ophem (Chemistry teacher at SMN) Becoming a Mentor Whether you are an FRC Alumni, family of a team member or a person just looking to help out, allow us to show you the way!</description>
     </item>
     
     <item>
@@ -111,9 +112,9 @@ Notable Past Mentors Reed Fagan (Former engineering teacher at SMN)</description
       
       <guid>/events/robotics-day/</guid>
       <description>Here are our Reach out activities going on right now!
-Robotics Day 2024 (Date to be determined)
-Middle School Presentation 2024 (Date to be determined)
-Parents&amp;rsquo; night out (Year and Date to be determined)</description>
+Robotics Day: October 2024 (Date to be determined)
+Middle School Presentation: 2024 (Date to be determined)
+Parents&amp;rsquo; night out: (Year and Date to be determined)</description>
     </item>
     
     <item>
@@ -131,7 +132,11 @@ Parents&amp;rsquo; night out (Year and Date to be determined)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/subteams/</guid>
-      <description>Mechanical
+      <description>President
+Quinn
+Vice-President
+Malachi
+Mechanical
 Silas
 Malachi
 Ellie
@@ -144,10 +149,10 @@ Brayden
 Max
 Jorden
 Marketing
-Peyton
 Zabby
 Juliany
-Zander</description>
+Zander
+Marz</description>
     </item>
     
     <item>
