@@ -10,7 +10,8 @@ We are incredibly grateful to our current mentors, who have assisted us through 
 
 Katie Kendle   
 Larry Pickert (Chemistry teacher at SMN)   
-Keaton Tuttle (Engineering teacher at SMN)  
+Keaton Tuttle (Engineering teacher at SMN) 
+Emily Pinkston (Mathematics teacher at SMN)
 John Peer  
 Maya Routh (Team 937 alum!)  
 Dylan Polson (Team 937 alum!)
