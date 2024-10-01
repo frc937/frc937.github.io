@@ -1,7 +1,7 @@
 ---
 title: "Activity posters"
 type: page
-draft: true
+draft: False
 ---
 Here are the posters for the upcoming events that we have out right now!
 
