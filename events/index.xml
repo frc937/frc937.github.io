@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Activity posters</title>
+      <link>/events/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/posters/</guid>
+      <description>Here are the posters for the upcoming events that we have out right now!
+![A red poster with white in the middle with text at the top which reads &amp;ldquo;Join SMN Robotics team 937 for&amp;rdquo;, in bigger text &amp;ldquo;ROBOTICS DAY&amp;rdquo;, with the text underneath that&amp;rsquo;s smaller says &amp;ldquo;October 11th, 2024, 8 am to 3 pm. There are 3 boxes, top one says &amp;ldquo;Shawnee Mission North, 7401 Johnson Drive, Overland Park, Kansas, 66202&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>Frc Competitions</title>
       <link>/events/frc-competition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
