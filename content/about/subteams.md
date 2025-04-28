@@ -6,42 +6,24 @@ draft: false
 
 **President**
 
-Quinn
+Max
 
 **Vice-President**
 
-Malachi
+Jorden
 
 **Mechanical**
 
-Silas
-
-Malachi
-
-Ellie
+Roxanne
 
 **Programming**
 
-Quinn
-
 Jack
-
-Marz
 
 **Power Distribution**
 
-Brayden
-
-Max
-
-Jorden
+Norman
 
 **Marketing**
 
 Zabby
-
-Juliany
-
-Zander
-
-Marz
